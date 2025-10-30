@@ -7,7 +7,7 @@ int main(){
     for (int i = 0; i < n; i++)
     {
         cin >> arr[i];
-    };
+    }
     int num;
     cout<<"enter the number of shift: ";
     cin>>num;
